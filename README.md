@@ -122,8 +122,8 @@
 <ul>
 
 <li>
-<a href="[https://linkedin.com/in/0xabdulkhalid](https://www.linkedin.com/in/santiago-reyes-buitrago-9764051b0/)" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/santiago-reyes-buitrago-9764051b0/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -139,7 +139,7 @@
 
 <li>
 <a href="mailto:snatiagoreyesbuitrago02@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
