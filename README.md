@@ -20,7 +20,7 @@
 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
-- Personal website [link](https://portafolioweb-santiago-reyes.up.railway.app)
+- Personal website [link](https://portafolio-web-zeta-taupe.vercel.app)
 - I’m currently open for a new job opportunity, this is [my resume](https://navwq3wlz.sites.cv)
 
 <br><br>
