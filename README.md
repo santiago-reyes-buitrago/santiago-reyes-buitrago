@@ -62,6 +62,7 @@
    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
    ![React-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
    ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+   ![Angular](https://img.shields.io/badge/Angular-DD1100?style=for-the-badge&logo=angular&logoColor=white)
 
 <br>
 
