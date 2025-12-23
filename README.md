@@ -22,6 +22,7 @@
 - Currently learning Web Development by Self
 - Personal website [link](https://portafolio-web-zeta-taupe.vercel.app)
 - I’m currently open for a new job opportunity, this is [my resume](https://navwq3wlz.sites.cv)
+- Profile wakatime, [Wakatime](https://wakatime.com/@joker2233990)
 
 <br><br>
 
