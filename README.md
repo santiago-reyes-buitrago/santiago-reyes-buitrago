@@ -100,12 +100,11 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Stats </b>
 <br>
 
 <div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiago-reyes-buitrago&show_icons=true&show_icons=true&theme=transparent)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@joker2233990/33a2a099-ef6f-4318-8656-80bbeed98e23.png" /></a>
 </div>
 
 <br>
